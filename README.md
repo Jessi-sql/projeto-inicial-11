@@ -6,4 +6,6 @@
 </span>
 <h1>Tecnologias Utilizadas</h1>
 <a><li>Java</li></a>
+<a><li>SQL</li></a>
+<a><li>HTML</li></a>
 
